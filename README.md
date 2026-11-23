@@ -2,6 +2,15 @@
 
 A Java desktop application for managing hospital patients, doctors, weekly clinic hours, and timed appointments. The interface is built with JavaFX; JDBC connects to MySQL.
 
+## Problem Statement
+
+Manual hospital appointment management can be time-consuming and may cause difficulties in checking doctor availability, managing appointments, and preventing double bookings.
+
+## Solution
+
+CarePoint provides a centralized system for patients, doctors, and administrators to manage hospital appointments. It allows patients to search doctors and book appointments, doctors to manage availability and visits, and administrators to manage patients, doctors, departments, and appointments.
+
+
 ## Features
 
 - Role-based sign-in for administrators, doctors, and patients, with patient and doctor self-registration.
